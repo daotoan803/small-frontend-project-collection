@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  color: #1cd3fe;
+}
+
+body {
+  background-color: #000;
+  font-family: "Orbitron";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock-container {
+  position: fixed;
+  width: 200px;
+  height: 200px;
+  top: 50%;
+  left: 50%;
+  margin-left: -100px;
+  margin-top: -100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  letter-spacing: 10px;
+  font-weight: bold;
+}
+
+.num-time {
+  float: left;
+  display: block;
+  min-width: 50%;
+}
+
+.split {
+  text-align: center;
+  min-width: 40px;
+}
+
+#time {
+  margin-left: 15px;
+}
