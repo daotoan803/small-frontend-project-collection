@@ -7,4 +7,7 @@
   <li>02. Simple clock
     <img src="./previewImage/02clock.png">
   </li>
+  <li>03. Calculator
+    <img src="./previewImage/03calculator.png">
+  </li>
 </ul>
